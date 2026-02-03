@@ -28,10 +28,14 @@ Here are some of the projects I've worked on:
 * Flask • Tkinter • BeautifulSoup • Selenium • Turtle
 
 # 📌 Highlighted Projects
-* 🔹 ML Model — Loan Default Prediction
-* 🔹 NLP Yelp Review Classifier
-* 🔹 Flask Blog App
-* 🔹 Python Pong Game
+
+🔹 ML Model — Loan Default Prediction
+
+🔹 NLP Yelp Review Classifier
+
+🔹 Flask Blog App
+
+🔹 Python Pong Game
 
 # 📫 Connect With Me
 * LinkedIn: [Profile](https://www.linkedin.com/in/rohit-bollapragada-166175162/)
